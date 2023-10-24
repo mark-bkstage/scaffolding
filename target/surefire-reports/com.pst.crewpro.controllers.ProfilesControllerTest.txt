@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pst.crewpro.controllers.ProfilesControllerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.986 s - in com.pst.crewpro.controllers.ProfilesControllerTest

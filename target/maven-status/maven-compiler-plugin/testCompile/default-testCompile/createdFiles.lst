@@ -1,0 +1,4 @@
+com\pst\crewpro\controllers\ProfilesControllerTest.class
+com\pst\crewpro\dao\DefaultProfilesDaoTest.class
+com\pst\crewpro\business\DefaultProfilesBusinessTest.class
+com\pst\crewpro\controllers\exceptions\ProfilesExceptionHandlerTest.class
